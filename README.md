@@ -34,6 +34,6 @@ Each level in the game uses either a different generator or a different seed.
 Made with the LÖVE framework
 [http://www.love2d.org]()
 
-Inspired by [lovecraft](https://github.com/groverburger/lovecraft), a game by Middlerun
+Inspired by [lovecraft](https://github.com/Middlerun/lovecraft), a game by Middlerun
 
 [http://www.middlerun.net](http://www.middlerun.net)
