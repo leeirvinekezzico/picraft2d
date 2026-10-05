@@ -36,4 +36,4 @@ Made with the LÖVE framework
 
 Inspired by lovecraft, a game by Middlerun
 
-[http://www.middlerun.net]()
+[http://www.middlerun.net](http://www.middlerun.net)
